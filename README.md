@@ -1,0 +1,1 @@
+To launch the notebook browsing inteface, just type ```jupyter notebook``` on the terminal. This will either open a browser, or create a tab in an existing browser window. Then click on the *.ipynb* file you want to open and continue.
